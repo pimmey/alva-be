@@ -36,3 +36,13 @@ npm run seed
 ```shell
 npm run dev
 ```
+
+## API Endpoints
+
+🎯 API Endpoints
+📊 Trends
+- GET /trends/daily?date=YYYY-MM-DD
+- GET /trends/weekly?date=YYYY-MM-DD
+- GET /trends/monthly?date=YYYY-MM
+🔍 Insights
+- GET /insights
